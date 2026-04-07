@@ -9,9 +9,9 @@ import matplotlib
 import matplotlib.pyplot as plt
 from reactor_env import NH3reactor
 from OptSteady_mass import Optsteady
-from feasiblity import prediction_feasibility
-from ML_prediction import ML_predict
-from MovingHorizonEst import MHP
+# from feasiblity import prediction_feasibility
+# from ML_prediction import ML_predict
+# from MovingHorizonEst import MHP
 import csv
 import time
 import pickle
